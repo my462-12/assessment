@@ -1,0 +1,31 @@
+body{
+background-color: lightsalmon;
+color: white;
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+
+button{
+  padding: 5px 20px ;
+  background-color: rgb(255, 162, 0);
+  border-style:solid ;
+  color: aliceblue;
+}
+
+input{
+  height: 35px;
+}
+
+.face{
+  color: lightblue;
+}
+.back{
+  color: lightslategray;
+}
+
+
+
+
+
+   
