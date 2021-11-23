@@ -1,12 +1,3 @@
-//アニメーション
-let header = document.getElementById('header');
-let degree =0;
-function rotateHeader(){
-  degree = degree + 6 ;
-  header.style.transform = 'rotateX (' + degree + 'deg)';
-}
-setInterval(rotateHeader,20);
-
 'use strict';
 const userNameInput = document.getElementById('user-name');
 const assessmentButton = document.getElementById('assessment');
